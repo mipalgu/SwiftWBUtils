@@ -9,6 +9,6 @@ final class SwiftWBUtilsTests: XCTestCase {
     }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testExample", testExample)
     ]
 }
